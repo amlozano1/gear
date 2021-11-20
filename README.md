@@ -70,6 +70,36 @@ https://smile.amazon.com/gp/product/B07PFHBZ91/ref=ppx_yo_dt_b_search_asin_title
 small, versatile, no wires to tangle never run out of outlets at the airport
 https://smile.amazon.com/GE-Adapter-Grounded-Outlet-58368
 
+## Entertainment
+
+Wireless Headphones. Over the ear, and noise cancelling for the best airplane experience.
+### Sony Wh1000xm4 
+Slightly better bass than the bose
+https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-w
+
+### Bose QuietComfort® 45 headphones 
+The leader in noise cancelling, but a little tinny sounding imho.
+https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/quietcomfort-headphones-45.html#v=qc45_black
+
+### Nintendo Switch
+Never be board on a plane again. If you've never played Zelda before, now's your chance jerk!
+
+### Roku
+Get a small one and stick one of these into your dongle bag and avoid having to sign into netflix, amazon, and everything else every time you land at a new hotel. Bonus, no need to use that gross remote control the hotel has. Make sure you have a long hdmi cable to go with.
+
+### Kindle
+Books are weight. If you don't like reading on your phone get a kinda or other ereader. Make sure you know how to sideload ebooks onto it.
+
 ## Hacking Gear
 For all my hackers out there.
 // TODO
+
+## Other tips
+* Just unplug the goddamn mini fridge so you can sleep
+* Some air conditioner units have secret control menu's that you have to use to get the room cooler / warmer than the "Soft limit" the hotel sets.
+* On day 1 of a long trip, go to the supermarket or something and get snacks and stuff. Charge it to the company card.
+* Don't be afraid to bring home snacks from the office supply, its usually a cost savings for you clients and they generally don't mind
+* Always charge meals to your room to make expense reports easier
+* Set up integration between lyft and concur so that your reciepts automatically get pulled into concur
+* Check with the hotel staff before walking somewhere, they can steer you around construction or unsafe parts of town.
+
