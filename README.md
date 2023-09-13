@@ -23,7 +23,7 @@ Goruck GR2
 https://www.goruck.com/collections/best-sellers/products/gr2
 
 ### Packing cubes
-Packing cubes add minimal weight but a lot of copacity to your back thanks to compression. 
+Packing cubes add minimal weight but a lot of capacity to your back thanks to compression. 
 The organization also makes packing and unpacking a breeze. I usually leave my "carry-on" cube packed with 1 shirt, 1 shorts, 2 underwear and 1 socks and literally never open it unless my checked bag gets lost
 Again here it doesn't really matter which brand you go with, Eagle Creek is just what I went with, because I particularly liked the hook hanger toiletry bag
 
