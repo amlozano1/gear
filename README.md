@@ -1,6 +1,12 @@
 # Gear
 This is where I keep my gear, cause people keep asking
 
+## Day to Day stuff
+
+## [Veno Shopping Bags](https://amzn.to/4bkPmLX)
+
+Every time I checkout using these bags, the cashier and bagger (if there is one) comments on how great they are. Sturdy, stand up by themselves, and large enough for almost any item. Highly recommend
+
 
 ## Ergonomic Essentials
 
